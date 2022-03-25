@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Anton",
+      "npsn": 20177942,
+      "kelas": 10
+    },
+    {
+      "id": 2,
+      "name": "Kiki",
+      "npsn": 20102435,
+      "kelas": 11
+    },
+    {
+      "id": 3,
+      "name": "Firas",
+      "npsn": 20177945,
+      "kelas": 12
+    },
+    {
+      "id": 4,
+      "name": "Adnan",
+      "npsn": 20102578,
+      "kelas": 11
+    },
+    {
+      "id": 5,
+      "name": "Hasan",
+      "npsn": 20177942,
+      "kelas": 12
+    },
+    {
+      "id": 6,
+      "name": "Arman",
+      "npsn": 20177946,
+      "kelas": 10
+    }
+  ]
